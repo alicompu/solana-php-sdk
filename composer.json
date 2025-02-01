@@ -1,5 +1,5 @@
 {
-    "name": "attestto/solana-php-sdk",
+    "name": "alicompu/solana-php-sdk",
     "version": "0.6.1",
     "description": "Solana PHP SDK for interacting with the Solana blockchain",
     "keywords": [
@@ -11,7 +11,7 @@
         "sdk",
         "php"
     ],
-    "homepage": "https://github.com/Attestto-com/solana-php-sdk",
+    "homepage": "https://github.com/alicompu/solana-php-sdk",
     "license": "MIT",
     "authors": [
         {
@@ -29,6 +29,12 @@
             "email": "eduardo@attestto.com",
             "homepage": "https://github.com/chongkan",
             "role": "Developer - [Current Maintainer]"
+        },
+        {
+            "name": "Ali Najafi",
+            "email": "2014najafi@gmila.com",
+            "homepage": "https://github.com/alicompu",
+            "role": "Developer"
         }
     ],
     "require": {
